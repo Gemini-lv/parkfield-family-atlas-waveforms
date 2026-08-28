@@ -3,7 +3,7 @@
     "filename": "broad-ranks-000001-000100.bin.gz",
     "familyCount": 100,
     "traceCount": 1115,
-    "compressedBytes": 1533952,
+    "compressedBytes": 1544134,
     "missingTraceCounts": {
       "N05884": 0,
       "N04568": 2,
@@ -105,13 +105,14 @@
       "N01541": 1,
       "N03027": 0,
       "N15975": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 89
   },
   {
     "filename": "broad-ranks-000101-000200.bin.gz",
     "familyCount": 100,
     "traceCount": 1280,
-    "compressedBytes": 1977882,
+    "compressedBytes": 1991725,
     "missingTraceCounts": {
       "N13909": 2,
       "N01378": 0,
@@ -213,13 +214,14 @@
       "N17182": 0,
       "N19524": 2,
       "N16098": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 96
   },
   {
     "filename": "broad-ranks-000201-000300.bin.gz",
     "familyCount": 100,
     "traceCount": 1145,
-    "compressedBytes": 1748141,
+    "compressedBytes": 1758633,
     "missingTraceCounts": {
       "N10425": 1,
       "N09589": 1,
@@ -321,13 +323,14 @@
       "N04504": 0,
       "N16099": 2,
       "N01483": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 93
   },
   {
     "filename": "broad-ranks-000301-000400.bin.gz",
     "familyCount": 100,
     "traceCount": 1170,
-    "compressedBytes": 1813642,
+    "compressedBytes": 1825625,
     "missingTraceCounts": {
       "N20657": 2,
       "N11847": 0,
@@ -429,13 +432,14 @@
       "N13572": 3,
       "N18860": 2,
       "N15062": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 96
   },
   {
     "filename": "broad-ranks-000401-000500.bin.gz",
     "familyCount": 100,
     "traceCount": 1295,
-    "compressedBytes": 2017736,
+    "compressedBytes": 2031596,
     "missingTraceCounts": {
       "N13087": 0,
       "N02319": 1,
@@ -537,13 +541,14 @@
       "N03776": 1,
       "N13391": 0,
       "N00344": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 91
   },
   {
     "filename": "broad-ranks-000501-000600.bin.gz",
     "familyCount": 100,
     "traceCount": 1500,
-    "compressedBytes": 2374355,
+    "compressedBytes": 2392887,
     "missingTraceCounts": {
       "N05796": 1,
       "N13924": 0,
@@ -645,13 +650,14 @@
       "N18479": 2,
       "N04936": 0,
       "N17529": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 96
   },
   {
     "filename": "broad-ranks-000601-000700.bin.gz",
     "familyCount": 100,
     "traceCount": 1325,
-    "compressedBytes": 2071025,
+    "compressedBytes": 2085470,
     "missingTraceCounts": {
       "N20320": 2,
       "N20251": 2,
@@ -753,13 +759,14 @@
       "N01284": 2,
       "N19843": 3,
       "N07627": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 92
   },
   {
     "filename": "broad-ranks-000701-000800.bin.gz",
     "familyCount": 100,
     "traceCount": 1300,
-    "compressedBytes": 2034381,
+    "compressedBytes": 2048916,
     "missingTraceCounts": {
       "N13555": 0,
       "N19370": 2,
@@ -861,13 +868,14 @@
       "N20791": 4,
       "N18037": 0,
       "N18035": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 95
   },
   {
     "filename": "broad-ranks-000801-000900.bin.gz",
     "familyCount": 100,
     "traceCount": 1735,
-    "compressedBytes": 2719188,
+    "compressedBytes": 2740929,
     "missingTraceCounts": {
       "N09588": 2,
       "N13819": 0,
@@ -969,13 +977,14 @@
       "N15435": 1,
       "N10934": 0,
       "N13128": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 97
   },
   {
     "filename": "broad-ranks-000901-001000.bin.gz",
     "familyCount": 100,
     "traceCount": 1215,
-    "compressedBytes": 1926520,
+    "compressedBytes": 1937656,
     "missingTraceCounts": {
       "N15136": 0,
       "N02264": 2,
@@ -1077,13 +1086,14 @@
       "N08436": 0,
       "N05016": 1,
       "N15337": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 93
   },
   {
     "filename": "broad-ranks-001001-001100.bin.gz",
     "familyCount": 100,
     "traceCount": 1620,
-    "compressedBytes": 2540241,
+    "compressedBytes": 2562101,
     "missingTraceCounts": {
       "N04031": 1,
       "N20053": 2,
@@ -1185,13 +1195,14 @@
       "N06619": 0,
       "N04979": 0,
       "N20328": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 96
   },
   {
     "filename": "broad-ranks-001101-001200.bin.gz",
     "familyCount": 100,
     "traceCount": 1375,
-    "compressedBytes": 2155455,
+    "compressedBytes": 2171322,
     "missingTraceCounts": {
       "N02786": 0,
       "N19510": 3,
@@ -1293,13 +1304,14 @@
       "N03609": 1,
       "N01363": 0,
       "N10391": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 94
   },
   {
     "filename": "broad-ranks-001201-001300.bin.gz",
     "familyCount": 100,
     "traceCount": 1495,
-    "compressedBytes": 2396972,
+    "compressedBytes": 2415895,
     "missingTraceCounts": {
       "N18046": 0,
       "N08524": 0,
@@ -1401,13 +1413,14 @@
       "N12081": 0,
       "N10148": 0,
       "N04385": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 95
   },
   {
     "filename": "broad-ranks-001301-001400.bin.gz",
     "familyCount": 100,
     "traceCount": 1530,
-    "compressedBytes": 2461027,
+    "compressedBytes": 2480336,
     "missingTraceCounts": {
       "N19612": 2,
       "N15151": 1,
@@ -1509,13 +1522,14 @@
       "N13198": 0,
       "N14450": 0,
       "N11387": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 94
   },
   {
     "filename": "broad-ranks-001401-001500.bin.gz",
     "familyCount": 100,
     "traceCount": 1800,
-    "compressedBytes": 2806054,
+    "compressedBytes": 2827738,
     "missingTraceCounts": {
       "N18219": 2,
       "N14425": 0,
@@ -1617,13 +1631,14 @@
       "N15154": 1,
       "N16072": 2,
       "N01488": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 93
   },
   {
     "filename": "broad-ranks-001501-001600.bin.gz",
     "familyCount": 100,
     "traceCount": 1425,
-    "compressedBytes": 2255966,
+    "compressedBytes": 2272668,
     "missingTraceCounts": {
       "N13454": 0,
       "N13131": 0,
@@ -1725,13 +1740,14 @@
       "N01411": 1,
       "N14612": 0,
       "N20976": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 95
   },
   {
     "filename": "broad-ranks-001601-001700.bin.gz",
     "familyCount": 100,
     "traceCount": 1845,
-    "compressedBytes": 2873068,
+    "compressedBytes": 2895939,
     "missingTraceCounts": {
       "N12416": 0,
       "N17412": 0,
@@ -1833,13 +1849,14 @@
       "N08234": 0,
       "N16759": 1,
       "N15383": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 93
   },
   {
     "filename": "broad-ranks-001701-001800.bin.gz",
     "familyCount": 100,
     "traceCount": 1360,
-    "compressedBytes": 2169518,
+    "compressedBytes": 2185061,
     "missingTraceCounts": {
       "N06607": 0,
       "N21095": 9,
@@ -1941,13 +1958,14 @@
       "N03954": 0,
       "N00518": 1,
       "N15708": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 96
   },
   {
     "filename": "broad-ranks-001801-001900.bin.gz",
     "familyCount": 100,
     "traceCount": 1530,
-    "compressedBytes": 2430704,
+    "compressedBytes": 2450545,
     "missingTraceCounts": {
       "N10174": 0,
       "N05126": 0,
@@ -2049,13 +2067,14 @@
       "N10536": 0,
       "N16279": 1,
       "N03532": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 93
   },
   {
     "filename": "broad-ranks-001901-002000.bin.gz",
     "familyCount": 100,
     "traceCount": 3670,
-    "compressedBytes": 5686516,
+    "compressedBytes": 5738584,
     "missingTraceCounts": {
       "N11531": 0,
       "N16235": 1,
@@ -2157,13 +2176,14 @@
       "N11757": 0,
       "N01861": 31,
       "N04757": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 86
   },
   {
     "filename": "broad-ranks-002001-002100.bin.gz",
     "familyCount": 100,
     "traceCount": 2000,
-    "compressedBytes": 3209336,
+    "compressedBytes": 3235905,
     "missingTraceCounts": {
       "N00667": 0,
       "N01357": 2,
@@ -2265,13 +2285,14 @@
       "N17846": 0,
       "N04251": 2,
       "N10519": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 90
   },
   {
     "filename": "broad-ranks-002101-002200.bin.gz",
     "familyCount": 100,
     "traceCount": 2670,
-    "compressedBytes": 4160872,
+    "compressedBytes": 4199241,
     "missingTraceCounts": {
       "N09321": 2,
       "N13776": 0,
@@ -2373,13 +2394,14 @@
       "N04227": 1,
       "N00630": 4,
       "N18844": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 82
   },
   {
     "filename": "broad-ranks-002201-002300.bin.gz",
     "familyCount": 100,
     "traceCount": 1845,
-    "compressedBytes": 2898602,
+    "compressedBytes": 2922406,
     "missingTraceCounts": {
       "N03674": 3,
       "N03055": 0,
@@ -2481,13 +2503,14 @@
       "N20979": 2,
       "N21020": 4,
       "N16280": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 91
   },
   {
     "filename": "broad-ranks-002301-002400.bin.gz",
     "familyCount": 100,
     "traceCount": 2105,
-    "compressedBytes": 3370081,
+    "compressedBytes": 3398527,
     "missingTraceCounts": {
       "N19076": 3,
       "N04796": 1,
@@ -2589,13 +2612,14 @@
       "N06753": 0,
       "N13734": 0,
       "N18864": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 90
   },
   {
     "filename": "broad-ranks-002401-002500.bin.gz",
     "familyCount": 100,
     "traceCount": 3025,
-    "compressedBytes": 4778253,
+    "compressedBytes": 4819257,
     "missingTraceCounts": {
       "N04048": 0,
       "N02441": 2,
@@ -2697,13 +2721,14 @@
       "N15071": 0,
       "N03175": 0,
       "N21040": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 94
   },
   {
     "filename": "broad-ranks-002501-002600.bin.gz",
     "familyCount": 100,
     "traceCount": 2225,
-    "compressedBytes": 3492529,
+    "compressedBytes": 3522184,
     "missingTraceCounts": {
       "N19989": 2,
       "N19199": 2,
@@ -2805,13 +2830,14 @@
       "N16119": 1,
       "N19420": 5,
       "N09714": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 91
   },
   {
     "filename": "broad-ranks-002601-002700.bin.gz",
     "familyCount": 100,
     "traceCount": 2155,
-    "compressedBytes": 3377188,
+    "compressedBytes": 3406208,
     "missingTraceCounts": {
       "N04239": 1,
       "N03393": 2,
@@ -2913,13 +2939,14 @@
       "N19456": 2,
       "N05738": 0,
       "N15717": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 88
   },
   {
     "filename": "broad-ranks-002701-002800.bin.gz",
     "familyCount": 100,
     "traceCount": 2925,
-    "compressedBytes": 4646495,
+    "compressedBytes": 4686296,
     "missingTraceCounts": {
       "N15871": 4,
       "N07650": 0,
@@ -3021,13 +3048,14 @@
       "N02417": 6,
       "N06575": 0,
       "N15936": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 89
   },
   {
     "filename": "broad-ranks-002801-002900.bin.gz",
     "familyCount": 100,
     "traceCount": 3840,
-    "compressedBytes": 6096457,
+    "compressedBytes": 6152337,
     "missingTraceCounts": {
       "N13767": 0,
       "N08306": 0,
@@ -3129,13 +3157,14 @@
       "N10719": 0,
       "N12310": 2,
       "N10822": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 88
   },
   {
     "filename": "broad-ranks-002901-003000.bin.gz",
     "familyCount": 100,
     "traceCount": 4230,
-    "compressedBytes": 6636162,
+    "compressedBytes": 6700606,
     "missingTraceCounts": {
       "N06684": 0,
       "N19459": 2,
@@ -3237,13 +3266,14 @@
       "N13873": 0,
       "N03696": 2,
       "N11803": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 83
   },
   {
     "filename": "broad-ranks-003001-003100.bin.gz",
     "familyCount": 100,
     "traceCount": 1875,
-    "compressedBytes": 3006733,
+    "compressedBytes": 3030483,
     "missingTraceCounts": {
       "N11043": 0,
       "N06085": 1,
@@ -3345,13 +3375,14 @@
       "N20939": 2,
       "N17117": 0,
       "N15169": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 92
   },
   {
     "filename": "broad-ranks-003101-003200.bin.gz",
     "familyCount": 100,
     "traceCount": 3035,
-    "compressedBytes": 4779517,
+    "compressedBytes": 4822757,
     "missingTraceCounts": {
       "N13234": 1,
       "N02974": 0,
@@ -3453,13 +3484,14 @@
       "N07030": 0,
       "N05777": 0,
       "N09739": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 83
   },
   {
     "filename": "broad-ranks-003201-003300.bin.gz",
     "familyCount": 100,
     "traceCount": 2230,
-    "compressedBytes": 3471585,
+    "compressedBytes": 3501475,
     "missingTraceCounts": {
       "N20125": 2,
       "N18600": 2,
@@ -3561,13 +3593,14 @@
       "N18104": 1,
       "N05213": 0,
       "N12492": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 87
   },
   {
     "filename": "broad-ranks-003301-003400.bin.gz",
     "familyCount": 100,
     "traceCount": 5380,
-    "compressedBytes": 8462571,
+    "compressedBytes": 8542660,
     "missingTraceCounts": {
       "N15870": 4,
       "N07933": 0,
@@ -3669,13 +3702,14 @@
       "N15175": 1,
       "N17185": 0,
       "N13885": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 82
   },
   {
     "filename": "broad-ranks-003401-003500.bin.gz",
     "familyCount": 100,
     "traceCount": 3475,
-    "compressedBytes": 5502627,
+    "compressedBytes": 5552117,
     "missingTraceCounts": {
       "N11538": 1,
       "N16724": 2,
@@ -3777,13 +3811,14 @@
       "N15534": 0,
       "N15399": 0,
       "N05705": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 86
   },
   {
     "filename": "broad-ranks-003501-003600.bin.gz",
     "familyCount": 100,
     "traceCount": 3535,
-    "compressedBytes": 5605036,
+    "compressedBytes": 5656037,
     "missingTraceCounts": {
       "N03289": 1,
       "N06304": 0,
@@ -3885,13 +3920,14 @@
       "N20243": 3,
       "N19159": 4,
       "N20409": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 81
   },
   {
     "filename": "broad-ranks-003601-003700.bin.gz",
     "familyCount": 100,
     "traceCount": 2045,
-    "compressedBytes": 3263341,
+    "compressedBytes": 3290521,
     "missingTraceCounts": {
       "N03241": 0,
       "N10392": 0,
@@ -3993,13 +4029,14 @@
       "N09379": 1,
       "N17726": 2,
       "N14873": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 87
   },
   {
     "filename": "broad-ranks-003701-003800.bin.gz",
     "familyCount": 100,
     "traceCount": 4225,
-    "compressedBytes": 6528365,
+    "compressedBytes": 6591674,
     "missingTraceCounts": {
       "N14654": 0,
       "N00496": 0,
@@ -4101,13 +4138,14 @@
       "N11895": 2,
       "N10909": 0,
       "N00896": 88
-    }
+    },
+    "fullyRefinedFamilyCount": 84
   },
   {
     "filename": "broad-ranks-003801-003900.bin.gz",
     "familyCount": 100,
     "traceCount": 2700,
-    "compressedBytes": 4229252,
+    "compressedBytes": 4266785,
     "missingTraceCounts": {
       "N20796": 6,
       "N17243": 0,
@@ -4209,13 +4247,14 @@
       "N00506": 0,
       "N05665": 1,
       "N10168": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 86
   },
   {
     "filename": "broad-ranks-003901-004000.bin.gz",
     "familyCount": 100,
     "traceCount": 2230,
-    "compressedBytes": 3532035,
+    "compressedBytes": 3562223,
     "missingTraceCounts": {
       "N19427": 4,
       "N00886": 3,
@@ -4317,13 +4356,14 @@
       "N11466": 0,
       "N06125": 0,
       "N07919": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 82
   },
   {
     "filename": "broad-ranks-004001-004100.bin.gz",
     "familyCount": 100,
     "traceCount": 1520,
-    "compressedBytes": 2423303,
+    "compressedBytes": 2442613,
     "missingTraceCounts": {
       "N07348": 0,
       "N06151": 0,
@@ -4425,13 +4465,14 @@
       "N05389": 3,
       "N00249": 7,
       "N14846": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 85
   },
   {
     "filename": "broad-ranks-004101-004200.bin.gz",
     "familyCount": 100,
     "traceCount": 2460,
-    "compressedBytes": 3918085,
+    "compressedBytes": 3951902,
     "missingTraceCounts": {
       "N00342": 0,
       "N07150": 0,
@@ -4533,13 +4574,14 @@
       "N00416": 56,
       "N01606": 4,
       "N04922": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 87
   },
   {
     "filename": "broad-ranks-004201-004300.bin.gz",
     "familyCount": 100,
     "traceCount": 4010,
-    "compressedBytes": 6437681,
+    "compressedBytes": 6496413,
     "missingTraceCounts": {
       "N12602": 0,
       "N10881": 0,
@@ -4641,13 +4683,14 @@
       "N20443": 4,
       "N07745": 0,
       "N10990": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 83
   },
   {
     "filename": "broad-ranks-004301-004400.bin.gz",
     "familyCount": 100,
     "traceCount": 3325,
-    "compressedBytes": 5314426,
+    "compressedBytes": 5363412,
     "missingTraceCounts": {
       "N03648": 2,
       "N12794": 1,
@@ -4749,13 +4792,14 @@
       "N20003": 2,
       "N09762": 0,
       "N10070": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 80
   },
   {
     "filename": "broad-ranks-004401-004500.bin.gz",
     "familyCount": 100,
     "traceCount": 2830,
-    "compressedBytes": 4432610,
+    "compressedBytes": 4470503,
     "missingTraceCounts": {
       "N10490": 0,
       "N14304": 0,
@@ -4857,13 +4901,14 @@
       "N14405": 0,
       "N09960": 0,
       "N10557": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 86
   },
   {
     "filename": "broad-ranks-004501-004600.bin.gz",
     "familyCount": 100,
     "traceCount": 2690,
-    "compressedBytes": 4289132,
+    "compressedBytes": 4327466,
     "missingTraceCounts": {
       "N02333": 0,
       "N00991": 14,
@@ -4965,13 +5010,14 @@
       "N02975": 0,
       "N01523": 10,
       "N13876": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 81
   },
   {
     "filename": "broad-ranks-004601-004700.bin.gz",
     "familyCount": 100,
     "traceCount": 2975,
-    "compressedBytes": 4721775,
+    "compressedBytes": 4762146,
     "missingTraceCounts": {
       "N06444": 0,
       "N03438": 0,
@@ -5073,13 +5119,14 @@
       "N11376": 7,
       "N13327": 1,
       "N09773": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 83
   },
   {
     "filename": "broad-ranks-004701-004800.bin.gz",
     "familyCount": 100,
     "traceCount": 2165,
-    "compressedBytes": 3456422,
+    "compressedBytes": 3485416,
     "missingTraceCounts": {
       "N18672": 2,
       "N19842": 5,
@@ -5181,13 +5228,14 @@
       "N01296": 2,
       "N01502": 3,
       "N20216": 5
-    }
+    },
+    "fullyRefinedFamilyCount": 82
   },
   {
     "filename": "broad-ranks-004801-004900.bin.gz",
     "familyCount": 100,
     "traceCount": 4305,
-    "compressedBytes": 6794667,
+    "compressedBytes": 6857870,
     "missingTraceCounts": {
       "N07702": 0,
       "N04387": 0,
@@ -5289,13 +5337,14 @@
       "N02527": 1,
       "N01928": 0,
       "N20487": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 81
   },
   {
     "filename": "broad-ranks-004901-005000.bin.gz",
     "familyCount": 100,
     "traceCount": 1790,
-    "compressedBytes": 2911776,
+    "compressedBytes": 2934656,
     "missingTraceCounts": {
       "N02713": 1,
       "N07958": 0,
@@ -5397,13 +5446,14 @@
       "N07145": 0,
       "N12705": 0,
       "N04418": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 84
   },
   {
     "filename": "broad-ranks-005001-005100.bin.gz",
     "familyCount": 100,
     "traceCount": 2375,
-    "compressedBytes": 3818152,
+    "compressedBytes": 3850128,
     "missingTraceCounts": {
       "N07490": 0,
       "N11313": 0,
@@ -5505,13 +5555,14 @@
       "N02247": 3,
       "N05541": 0,
       "N08535": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 71
   },
   {
     "filename": "broad-ranks-005101-005200.bin.gz",
     "familyCount": 100,
     "traceCount": 2840,
-    "compressedBytes": 4551271,
+    "compressedBytes": 4591903,
     "missingTraceCounts": {
       "N05284": 0,
       "N04375": 1,
@@ -5613,13 +5664,14 @@
       "N02050": 0,
       "N11033": 0,
       "N08226": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 76
   },
   {
     "filename": "broad-ranks-005201-005300.bin.gz",
     "familyCount": 100,
     "traceCount": 2600,
-    "compressedBytes": 4120584,
+    "compressedBytes": 4157573,
     "missingTraceCounts": {
       "N14840": 2,
       "N14374": 1,
@@ -5721,13 +5773,14 @@
       "N06318": 0,
       "N03226": 20,
       "N16043": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 79
   },
   {
     "filename": "broad-ranks-005301-005400.bin.gz",
     "familyCount": 100,
     "traceCount": 2380,
-    "compressedBytes": 3706287,
+    "compressedBytes": 3739173,
     "missingTraceCounts": {
       "N00631": 4,
       "N18637": 2,
@@ -5829,13 +5882,14 @@
       "N19397": 5,
       "N05044": 0,
       "N01020": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 67
   },
   {
     "filename": "broad-ranks-005401-005500.bin.gz",
     "familyCount": 100,
     "traceCount": 1815,
-    "compressedBytes": 2933762,
+    "compressedBytes": 2956732,
     "missingTraceCounts": {
       "N20245": 2,
       "N08157": 0,
@@ -5937,13 +5991,14 @@
       "N16259": 0,
       "N05577": 0,
       "N19982": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 80
   },
   {
     "filename": "broad-ranks-005501-005600.bin.gz",
     "familyCount": 100,
     "traceCount": 3370,
-    "compressedBytes": 5396062,
+    "compressedBytes": 5445853,
     "missingTraceCounts": {
       "N12865": 0,
       "N12071": 0,
@@ -6045,13 +6100,14 @@
       "N01984": 0,
       "N18405": 5,
       "N19782": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 74
   },
   {
     "filename": "broad-ranks-005601-005700.bin.gz",
     "familyCount": 100,
     "traceCount": 2840,
-    "compressedBytes": 4554711,
+    "compressedBytes": 4595017,
     "missingTraceCounts": {
       "N01894": 2,
       "N00239": 2,
@@ -6153,13 +6209,14 @@
       "N11720": 0,
       "N05500": 0,
       "N15413": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 74
   },
   {
     "filename": "broad-ranks-005701-005800.bin.gz",
     "familyCount": 100,
     "traceCount": 3245,
-    "compressedBytes": 5113157,
+    "compressedBytes": 5161496,
     "missingTraceCounts": {
       "N03042": 4,
       "N18998": 4,
@@ -6261,13 +6318,14 @@
       "N05843": 1,
       "N14034": 0,
       "N01755": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 73
   },
   {
     "filename": "broad-ranks-005801-005900.bin.gz",
     "familyCount": 100,
     "traceCount": 3130,
-    "compressedBytes": 4978646,
+    "compressedBytes": 5024673,
     "missingTraceCounts": {
       "N09722": 1,
       "N13292": 0,
@@ -6369,13 +6427,14 @@
       "N00028": 5,
       "N10865": 0,
       "N18335": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 71
   },
   {
     "filename": "broad-ranks-005901-006000.bin.gz",
     "familyCount": 100,
     "traceCount": 3755,
-    "compressedBytes": 5946610,
+    "compressedBytes": 6000625,
     "missingTraceCounts": {
       "N17824": 2,
       "N15654": 0,
@@ -6477,13 +6536,14 @@
       "N03204": 0,
       "N13068": 0,
       "N07819": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 77
   },
   {
     "filename": "broad-ranks-006001-006100.bin.gz",
     "familyCount": 100,
     "traceCount": 3875,
-    "compressedBytes": 6264430,
+    "compressedBytes": 6322162,
     "missingTraceCounts": {
       "N10831": 0,
       "N02996": 0,
@@ -6585,13 +6645,14 @@
       "N07930": 0,
       "N15801": 1,
       "N13858": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 73
   },
   {
     "filename": "broad-ranks-006101-006200.bin.gz",
     "familyCount": 100,
     "traceCount": 4570,
-    "compressedBytes": 7383893,
+    "compressedBytes": 7451710,
     "missingTraceCounts": {
       "N13723": 0,
       "N09878": 2,
@@ -6693,13 +6754,14 @@
       "N18896": 4,
       "N17411": 0,
       "N06861": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 72
   },
   {
     "filename": "broad-ranks-006201-006300.bin.gz",
     "familyCount": 100,
     "traceCount": 2660,
-    "compressedBytes": 4186031,
+    "compressedBytes": 4223478,
     "missingTraceCounts": {
       "N14427": 0,
       "N11458": 3,
@@ -6801,13 +6863,14 @@
       "N20330": 2,
       "N00579": 0,
       "N12886": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 70
   },
   {
     "filename": "broad-ranks-006301-006400.bin.gz",
     "familyCount": 100,
     "traceCount": 4140,
-    "compressedBytes": 6538989,
+    "compressedBytes": 6601902,
     "missingTraceCounts": {
       "N09710": 0,
       "N00423": 17,
@@ -6909,13 +6972,14 @@
       "N14113": 3,
       "N00797": 2,
       "N01549": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 71
   },
   {
     "filename": "broad-ranks-006401-006500.bin.gz",
     "familyCount": 100,
     "traceCount": 3870,
-    "compressedBytes": 6257352,
+    "compressedBytes": 6314721,
     "missingTraceCounts": {
       "N14935": 0,
       "N20982": 2,
@@ -7017,13 +7081,14 @@
       "N01687": 16,
       "N14685": 0,
       "N15298": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 67
   },
   {
     "filename": "broad-ranks-006501-006600.bin.gz",
     "familyCount": 100,
     "traceCount": 2910,
-    "compressedBytes": 4621144,
+    "compressedBytes": 4660632,
     "missingTraceCounts": {
       "N12622": 2,
       "N05745": 0,
@@ -7125,13 +7190,14 @@
       "N11690": 0,
       "N15908": 0,
       "N12996": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 73
   },
   {
     "filename": "broad-ranks-006601-006700.bin.gz",
     "familyCount": 100,
     "traceCount": 2990,
-    "compressedBytes": 4863776,
+    "compressedBytes": 4906838,
     "missingTraceCounts": {
       "N08832": 0,
       "N16218": 0,
@@ -7233,13 +7299,14 @@
       "N20077": 2,
       "N20463": 2,
       "N02661": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 64
   },
   {
     "filename": "broad-ranks-006701-006800.bin.gz",
     "familyCount": 100,
     "traceCount": 3505,
-    "compressedBytes": 5623647,
+    "compressedBytes": 5673975,
     "missingTraceCounts": {
       "N16525": 0,
       "N09480": 1,
@@ -7341,13 +7408,14 @@
       "N19978": 3,
       "N13965": 0,
       "N12423": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 68
   },
   {
     "filename": "broad-ranks-006801-006900.bin.gz",
     "familyCount": 100,
     "traceCount": 4035,
-    "compressedBytes": 6514733,
+    "compressedBytes": 6574453,
     "missingTraceCounts": {
       "N02012": 8,
       "N15452": 0,
@@ -7449,13 +7517,14 @@
       "N17935": 0,
       "N02712": 1,
       "N02884": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 60
   },
   {
     "filename": "broad-ranks-006901-007000.bin.gz",
     "familyCount": 100,
     "traceCount": 2535,
-    "compressedBytes": 4041554,
+    "compressedBytes": 4078464,
     "missingTraceCounts": {
       "N13015": 3,
       "N10409": 0,
@@ -7557,13 +7626,14 @@
       "N10094": 0,
       "N12764": 1,
       "N18140": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 63
   },
   {
     "filename": "broad-ranks-007001-007100.bin.gz",
     "familyCount": 100,
     "traceCount": 2430,
-    "compressedBytes": 3848496,
+    "compressedBytes": 3883116,
     "missingTraceCounts": {
       "N04631": 1,
       "N03699": 1,
@@ -7665,13 +7735,14 @@
       "N01515": 2,
       "N06161": 0,
       "N13280": 5
-    }
+    },
+    "fullyRefinedFamilyCount": 70
   },
   {
     "filename": "broad-ranks-007101-007200.bin.gz",
     "familyCount": 100,
     "traceCount": 2725,
-    "compressedBytes": 4455462,
+    "compressedBytes": 4494740,
     "missingTraceCounts": {
       "N18922": 4,
       "N13520": 2,
@@ -7773,13 +7844,14 @@
       "N00783": 0,
       "N18352": 3,
       "N16998": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 62
   },
   {
     "filename": "broad-ranks-007201-007300.bin.gz",
     "familyCount": 100,
     "traceCount": 2775,
-    "compressedBytes": 4524576,
+    "compressedBytes": 4564569,
     "missingTraceCounts": {
       "N20730": 2,
       "N15851": 0,
@@ -7881,13 +7953,14 @@
       "N06784": 1,
       "N03093": 9,
       "N12745": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 73
   },
   {
     "filename": "broad-ranks-007301-007400.bin.gz",
     "familyCount": 100,
     "traceCount": 4420,
-    "compressedBytes": 7336670,
+    "compressedBytes": 7403255,
     "missingTraceCounts": {
       "N04735": 0,
       "N12710": 0,
@@ -7989,13 +8062,14 @@
       "N03862": 0,
       "N15284": 0,
       "N14399": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 70
   },
   {
     "filename": "broad-ranks-007401-007500.bin.gz",
     "familyCount": 100,
     "traceCount": 2650,
-    "compressedBytes": 4265221,
+    "compressedBytes": 4302604,
     "missingTraceCounts": {
       "N20172": 3,
       "N13860": 0,
@@ -8097,13 +8171,14 @@
       "N19831": 2,
       "N04916": 0,
       "N02935": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 63
   },
   {
     "filename": "broad-ranks-007501-007600.bin.gz",
     "familyCount": 100,
     "traceCount": 2860,
-    "compressedBytes": 4582974,
+    "compressedBytes": 4622546,
     "missingTraceCounts": {
       "N20218": 6,
       "N13166": 1,
@@ -8205,13 +8280,14 @@
       "N05532": 0,
       "N00443": 5,
       "N04673": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 63
   },
   {
     "filename": "broad-ranks-007601-007700.bin.gz",
     "familyCount": 100,
     "traceCount": 2745,
-    "compressedBytes": 4459393,
+    "compressedBytes": 4497748,
     "missingTraceCounts": {
       "N04617": 0,
       "N00617": 2,
@@ -8313,13 +8389,14 @@
       "N19954": 2,
       "N12022": 0,
       "N17504": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 59
   },
   {
     "filename": "broad-ranks-007701-007800.bin.gz",
     "familyCount": 100,
     "traceCount": 1820,
-    "compressedBytes": 2955293,
+    "compressedBytes": 2978527,
     "missingTraceCounts": {
       "N20686": 3,
       "N08420": 0,
@@ -8421,13 +8498,14 @@
       "N05062": 0,
       "N00645": 1,
       "N08345": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 62
   },
   {
     "filename": "broad-ranks-007801-007900.bin.gz",
     "familyCount": 100,
     "traceCount": 2700,
-    "compressedBytes": 4378639,
+    "compressedBytes": 4417376,
     "missingTraceCounts": {
       "N15709": 2,
       "N17240": 3,
@@ -8529,13 +8607,14 @@
       "N14917": 0,
       "N14080": 0,
       "N13045": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 66
   },
   {
     "filename": "broad-ranks-007901-008000.bin.gz",
     "familyCount": 100,
     "traceCount": 3720,
-    "compressedBytes": 6000323,
+    "compressedBytes": 6055857,
     "missingTraceCounts": {
       "N02013": 8,
       "N17675": 0,
@@ -8637,13 +8716,14 @@
       "N11421": 0,
       "N10203": 4,
       "N05313": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 48
   },
   {
     "filename": "broad-ranks-008001-008100.bin.gz",
     "familyCount": 100,
     "traceCount": 2345,
-    "compressedBytes": 3789742,
+    "compressedBytes": 3821567,
     "missingTraceCounts": {
       "N13972": 0,
       "N19737": 2,
@@ -8745,13 +8825,14 @@
       "N05682": 0,
       "N15348": 0,
       "N12361": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 61
   },
   {
     "filename": "broad-ranks-008101-008200.bin.gz",
     "familyCount": 100,
     "traceCount": 1710,
-    "compressedBytes": 2801493,
+    "compressedBytes": 2823102,
     "missingTraceCounts": {
       "N05783": 0,
       "N12859": 0,
@@ -8853,13 +8934,14 @@
       "N06147": 0,
       "N01072": 4,
       "N06797": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 60
   },
   {
     "filename": "broad-ranks-008201-008300.bin.gz",
     "familyCount": 100,
     "traceCount": 2855,
-    "compressedBytes": 4602456,
+    "compressedBytes": 4642558,
     "missingTraceCounts": {
       "N06403": 0,
       "N00448": 13,
@@ -8961,13 +9043,14 @@
       "N08376": 0,
       "N16600": 1,
       "N07676": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 65
   },
   {
     "filename": "broad-ranks-008301-008400.bin.gz",
     "familyCount": 100,
     "traceCount": 2245,
-    "compressedBytes": 3668532,
+    "compressedBytes": 3699222,
     "missingTraceCounts": {
       "N19409": 4,
       "N18220": 7,
@@ -9069,13 +9152,14 @@
       "N12229": 0,
       "N15304": 1,
       "N16003": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 65
   },
   {
     "filename": "broad-ranks-008401-008500.bin.gz",
     "familyCount": 100,
     "traceCount": 2120,
-    "compressedBytes": 3435972,
+    "compressedBytes": 3465243,
     "missingTraceCounts": {
       "N11160": 2,
       "N16647": 2,
@@ -9177,13 +9261,14 @@
       "N20916": 2,
       "N01807": 6,
       "N12344": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 62
   },
   {
     "filename": "broad-ranks-008501-008600.bin.gz",
     "familyCount": 100,
     "traceCount": 2470,
-    "compressedBytes": 4018666,
+    "compressedBytes": 4054861,
     "missingTraceCounts": {
       "N06045": 0,
       "N02073": 0,
@@ -9285,13 +9370,14 @@
       "N04210": 0,
       "N00477": 0,
       "N20817": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 54
   },
   {
     "filename": "broad-ranks-008601-008700.bin.gz",
     "familyCount": 100,
     "traceCount": 3035,
-    "compressedBytes": 4961632,
+    "compressedBytes": 5006544,
     "missingTraceCounts": {
       "N02756": 4,
       "N03472": 0,
@@ -9393,13 +9479,14 @@
       "N07350": 0,
       "N06223": 0,
       "N01425": 11
-    }
+    },
+    "fullyRefinedFamilyCount": 51
   },
   {
     "filename": "broad-ranks-008701-008800.bin.gz",
     "familyCount": 100,
     "traceCount": 3370,
-    "compressedBytes": 5364228,
+    "compressedBytes": 5413211,
     "missingTraceCounts": {
       "N13306": 0,
       "N10355": 0,
@@ -9501,13 +9588,14 @@
       "N19542": 2,
       "N02845": 4,
       "N12231": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 61
   },
   {
     "filename": "broad-ranks-008801-008900.bin.gz",
     "familyCount": 100,
     "traceCount": 2540,
-    "compressedBytes": 4140272,
+    "compressedBytes": 4176717,
     "missingTraceCounts": {
       "N08999": 0,
       "N01185": 2,
@@ -9609,13 +9697,14 @@
       "N16605": 0,
       "N14751": 0,
       "N05004": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 58
   },
   {
     "filename": "broad-ranks-008901-009000.bin.gz",
     "familyCount": 100,
     "traceCount": 2620,
-    "compressedBytes": 4240168,
+    "compressedBytes": 4277419,
     "missingTraceCounts": {
       "N09808": 0,
       "N16324": 0,
@@ -9717,13 +9806,14 @@
       "N02987": 0,
       "N17673": 0,
       "N10445": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 56
   },
   {
     "filename": "broad-ranks-009001-009100.bin.gz",
     "familyCount": 100,
     "traceCount": 3520,
-    "compressedBytes": 5787341,
+    "compressedBytes": 5839005,
     "missingTraceCounts": {
       "N04362": 1,
       "N06790": 0,
@@ -9825,13 +9915,14 @@
       "N15346": 1,
       "N02643": 0,
       "N19184": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 51
   },
   {
     "filename": "broad-ranks-009101-009200.bin.gz",
     "familyCount": 100,
     "traceCount": 2920,
-    "compressedBytes": 4798768,
+    "compressedBytes": 4840756,
     "missingTraceCounts": {
       "N09965": 0,
       "N03598": 0,
@@ -9933,13 +10024,14 @@
       "N08618": 0,
       "N03061": 0,
       "N09658": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 56
   },
   {
     "filename": "broad-ranks-009201-009300.bin.gz",
     "familyCount": 100,
     "traceCount": 2300,
-    "compressedBytes": 3730555,
+    "compressedBytes": 3762172,
     "missingTraceCounts": {
       "N08047": 0,
       "N13864": 0,
@@ -10041,13 +10133,14 @@
       "N03741": 2,
       "N08519": 0,
       "N18952": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 56
   },
   {
     "filename": "broad-ranks-009301-009400.bin.gz",
     "familyCount": 100,
     "traceCount": 2935,
-    "compressedBytes": 4789095,
+    "compressedBytes": 4830673,
     "missingTraceCounts": {
       "N09442": 0,
       "N06037": 0,
@@ -10149,13 +10242,14 @@
       "N07778": 0,
       "N11310": 0,
       "N05740": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 57
   },
   {
     "filename": "broad-ranks-009401-009500.bin.gz",
     "familyCount": 100,
     "traceCount": 1940,
-    "compressedBytes": 3187016,
+    "compressedBytes": 3213113,
     "missingTraceCounts": {
       "N18805": 2,
       "N04783": 0,
@@ -10257,13 +10351,14 @@
       "N20159": 2,
       "N19807": 4,
       "N16937": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 51
   },
   {
     "filename": "broad-ranks-009501-009600.bin.gz",
     "familyCount": 100,
     "traceCount": 2880,
-    "compressedBytes": 4662488,
+    "compressedBytes": 4703340,
     "missingTraceCounts": {
       "N18336": 7,
       "N04280": 0,
@@ -10365,13 +10460,14 @@
       "N05088": 0,
       "N06135": 0,
       "N03660": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 52
   },
   {
     "filename": "broad-ranks-009601-009700.bin.gz",
     "familyCount": 100,
     "traceCount": 2575,
-    "compressedBytes": 4189165,
+    "compressedBytes": 4227169,
     "missingTraceCounts": {
       "N17512": 0,
       "N12767": 0,
@@ -10473,13 +10569,14 @@
       "N20855": 3,
       "N13377": 3,
       "N12467": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 57
   },
   {
     "filename": "broad-ranks-009701-009800.bin.gz",
     "familyCount": 100,
     "traceCount": 2535,
-    "compressedBytes": 4145381,
+    "compressedBytes": 4182631,
     "missingTraceCounts": {
       "N06364": 0,
       "N18225": 13,
@@ -10581,13 +10678,14 @@
       "N04424": 7,
       "N19953": 2,
       "N08410": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 44
   },
   {
     "filename": "broad-ranks-009801-009900.bin.gz",
     "familyCount": 100,
     "traceCount": 2630,
-    "compressedBytes": 4407685,
+    "compressedBytes": 4446203,
     "missingTraceCounts": {
       "N13136": 4,
       "N13393": 0,
@@ -10689,13 +10787,14 @@
       "N17713": 1,
       "N04000": 1,
       "N09510": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 40
   },
   {
     "filename": "broad-ranks-009901-010000.bin.gz",
     "familyCount": 100,
     "traceCount": 2715,
-    "compressedBytes": 4514901,
+    "compressedBytes": 4554619,
     "missingTraceCounts": {
       "N01146": 3,
       "N13117": 2,
@@ -10797,13 +10896,14 @@
       "N11732": 1,
       "N04549": 0,
       "N16718": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 42
   },
   {
     "filename": "broad-ranks-010001-010100.bin.gz",
     "familyCount": 100,
     "traceCount": 2290,
-    "compressedBytes": 3767886,
+    "compressedBytes": 3799535,
     "missingTraceCounts": {
       "N16541": 0,
       "N04386": 1,
@@ -10905,13 +11005,14 @@
       "N13416": 2,
       "N20697": 3,
       "N04608": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 49
   },
   {
     "filename": "broad-ranks-010101-010200.bin.gz",
     "familyCount": 100,
     "traceCount": 2290,
-    "compressedBytes": 3690269,
+    "compressedBytes": 3721644,
     "missingTraceCounts": {
       "N15113": 0,
       "N15855": 2,
@@ -11013,13 +11114,14 @@
       "N18949": 2,
       "N13309": 2,
       "N01318": 4
-    }
+    },
+    "fullyRefinedFamilyCount": 53
   },
   {
     "filename": "broad-ranks-010201-010300.bin.gz",
     "familyCount": 100,
     "traceCount": 1825,
-    "compressedBytes": 2924815,
+    "compressedBytes": 2947870,
     "missingTraceCounts": {
       "N10505": 0,
       "N09382": 0,
@@ -11121,13 +11223,14 @@
       "N17875": 0,
       "N06638": 0,
       "N06145": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 46
   },
   {
     "filename": "broad-ranks-010301-010400.bin.gz",
     "familyCount": 100,
     "traceCount": 2300,
-    "compressedBytes": 3787348,
+    "compressedBytes": 3819459,
     "missingTraceCounts": {
       "N07128": 0,
       "N08088": 1,
@@ -11229,13 +11332,14 @@
       "N12579": 1,
       "N12973": 0,
       "N10662": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 43
   },
   {
     "filename": "broad-ranks-010401-010500.bin.gz",
     "familyCount": 100,
     "traceCount": 2210,
-    "compressedBytes": 3642286,
+    "compressedBytes": 3673147,
     "missingTraceCounts": {
       "N12078": 2,
       "N12614": 0,
@@ -11337,13 +11441,14 @@
       "N07372": 0,
       "N13625": 0,
       "N07404": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 48
   },
   {
     "filename": "broad-ranks-010501-010600.bin.gz",
     "familyCount": 100,
     "traceCount": 2840,
-    "compressedBytes": 4693494,
+    "compressedBytes": 4734148,
     "missingTraceCounts": {
       "N05879": 0,
       "N13051": 0,
@@ -11445,13 +11550,14 @@
       "N10530": 0,
       "N12669": 0,
       "N16278": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 42
   },
   {
     "filename": "broad-ranks-010601-010700.bin.gz",
     "familyCount": 100,
     "traceCount": 2955,
-    "compressedBytes": 4885845,
+    "compressedBytes": 4928552,
     "missingTraceCounts": {
       "N13083": 0,
       "N08584": 2,
@@ -11553,13 +11659,14 @@
       "N04099": 2,
       "N01725": 7,
       "N20882": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 45
   },
   {
     "filename": "broad-ranks-010701-010800.bin.gz",
     "familyCount": 100,
     "traceCount": 2095,
-    "compressedBytes": 3445102,
+    "compressedBytes": 3474159,
     "missingTraceCounts": {
       "N17594": 1,
       "N02501": 16,
@@ -11661,13 +11768,14 @@
       "N07268": 0,
       "N17423": 1,
       "N18850": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 41
   },
   {
     "filename": "broad-ranks-010801-010900.bin.gz",
     "familyCount": 100,
     "traceCount": 2230,
-    "compressedBytes": 3739353,
+    "compressedBytes": 3770085,
     "missingTraceCounts": {
       "N10437": 0,
       "N05360": 0,
@@ -11769,13 +11877,14 @@
       "N11688": 0,
       "N14046": 0,
       "N02386": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 34
   },
   {
     "filename": "broad-ranks-010901-011000.bin.gz",
     "familyCount": 100,
     "traceCount": 1915,
-    "compressedBytes": 3167988,
+    "compressedBytes": 3193617,
     "missingTraceCounts": {
       "N05328": 0,
       "N16814": 0,
@@ -11877,13 +11986,14 @@
       "N10531": 1,
       "N07219": 0,
       "N07582": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 47
   },
   {
     "filename": "broad-ranks-011001-011100.bin.gz",
     "familyCount": 100,
     "traceCount": 2275,
-    "compressedBytes": 3797874,
+    "compressedBytes": 3829530,
     "missingTraceCounts": {
       "N07615": 0,
       "N00592": 0,
@@ -11985,13 +12095,14 @@
       "N11404": 0,
       "N16505": 0,
       "N03585": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 40
   },
   {
     "filename": "broad-ranks-011101-011200.bin.gz",
     "familyCount": 100,
     "traceCount": 2060,
-    "compressedBytes": 3372266,
+    "compressedBytes": 3400391,
     "missingTraceCounts": {
       "N03314": 2,
       "N20517": 2,
@@ -12093,13 +12204,14 @@
       "N11357": 1,
       "N17615": 0,
       "N15744": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 52
   },
   {
     "filename": "broad-ranks-011201-011300.bin.gz",
     "familyCount": 100,
     "traceCount": 2640,
-    "compressedBytes": 4308283,
+    "compressedBytes": 4347019,
     "missingTraceCounts": {
       "N02142": 0,
       "N00580": 6,
@@ -12201,13 +12313,14 @@
       "N01563": 5,
       "N00771": 3,
       "N20551": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 40
   },
   {
     "filename": "broad-ranks-011301-011400.bin.gz",
     "familyCount": 100,
     "traceCount": 2815,
-    "compressedBytes": 4529486,
+    "compressedBytes": 4569427,
     "missingTraceCounts": {
       "N18945": 2,
       "N02957": 0,
@@ -12309,13 +12422,14 @@
       "N18410": 2,
       "N06120": 0,
       "N18428": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 41
   },
   {
     "filename": "broad-ranks-011401-011500.bin.gz",
     "familyCount": 100,
     "traceCount": 2030,
-    "compressedBytes": 3344829,
+    "compressedBytes": 3372933,
     "missingTraceCounts": {
       "N19269": 2,
       "N05947": 0,
@@ -12417,13 +12531,14 @@
       "N07590": 0,
       "N09583": 0,
       "N04027": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 52
   },
   {
     "filename": "broad-ranks-011501-011600.bin.gz",
     "familyCount": 100,
     "traceCount": 2675,
-    "compressedBytes": 4425427,
+    "compressedBytes": 4465665,
     "missingTraceCounts": {
       "N07463": 0,
       "N11785": 1,
@@ -12525,13 +12640,14 @@
       "N12354": 0,
       "N07367": 0,
       "N19447": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 36
   },
   {
     "filename": "broad-ranks-011601-011700.bin.gz",
     "familyCount": 100,
     "traceCount": 2800,
-    "compressedBytes": 4652299,
+    "compressedBytes": 4692502,
     "missingTraceCounts": {
       "N09471": 0,
       "N00704": 3,
@@ -12633,13 +12749,14 @@
       "N01940": 1,
       "N06919": 5,
       "N09067": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 43
   },
   {
     "filename": "broad-ranks-011701-011800.bin.gz",
     "familyCount": 100,
     "traceCount": 3005,
-    "compressedBytes": 4992679,
+    "compressedBytes": 5036337,
     "missingTraceCounts": {
       "N01728": 0,
       "N00132": 6,
@@ -12741,13 +12858,14 @@
       "N11600": 0,
       "N11196": 0,
       "N18289": 5
-    }
+    },
+    "fullyRefinedFamilyCount": 39
   },
   {
     "filename": "broad-ranks-011801-011900.bin.gz",
     "familyCount": 100,
     "traceCount": 1855,
-    "compressedBytes": 3095909,
+    "compressedBytes": 3120373,
     "missingTraceCounts": {
       "N16984": 0,
       "N02282": 0,
@@ -12849,13 +12967,14 @@
       "N12555": 1,
       "N16865": 1,
       "N06636": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 48
   },
   {
     "filename": "broad-ranks-011901-012000.bin.gz",
     "familyCount": 100,
     "traceCount": 1770,
-    "compressedBytes": 2931472,
+    "compressedBytes": 2953297,
     "missingTraceCounts": {
       "N03020": 0,
       "N18574": 3,
@@ -12957,13 +13076,14 @@
       "N06710": 0,
       "N14141": 2,
       "N13904": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 34
   },
   {
     "filename": "broad-ranks-012001-012100.bin.gz",
     "familyCount": 100,
     "traceCount": 2020,
-    "compressedBytes": 3271651,
+    "compressedBytes": 3299075,
     "missingTraceCounts": {
       "N13189": 1,
       "N17893": 0,
@@ -13065,13 +13185,14 @@
       "N09088": 0,
       "N00562": 2,
       "N06302": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 32
   },
   {
     "filename": "broad-ranks-012101-012200.bin.gz",
     "familyCount": 100,
     "traceCount": 2080,
-    "compressedBytes": 3457132,
+    "compressedBytes": 3485745,
     "missingTraceCounts": {
       "N06019": 5,
       "N18978": 2,
@@ -13173,13 +13294,14 @@
       "N06183": 0,
       "N20956": 2,
       "N02615": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 29
   },
   {
     "filename": "broad-ranks-012201-012300.bin.gz",
     "familyCount": 100,
     "traceCount": 2200,
-    "compressedBytes": 3636819,
+    "compressedBytes": 3667327,
     "missingTraceCounts": {
       "N03367": 0,
       "N14069": 0,
@@ -13281,13 +13403,14 @@
       "N05152": 6,
       "N04844": 0,
       "N16796": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 37
   },
   {
     "filename": "broad-ranks-012301-012400.bin.gz",
     "familyCount": 100,
     "traceCount": 1705,
-    "compressedBytes": 2772646,
+    "compressedBytes": 2794356,
     "missingTraceCounts": {
       "N19757": 2,
       "N10078": 0,
@@ -13389,13 +13512,14 @@
       "N09362": 2,
       "N04874": 0,
       "N18643": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 35
   },
   {
     "filename": "broad-ranks-012401-012500.bin.gz",
     "familyCount": 100,
     "traceCount": 2255,
-    "compressedBytes": 3696494,
+    "compressedBytes": 3727529,
     "missingTraceCounts": {
       "N09751": 1,
       "N12016": 5,
@@ -13497,13 +13621,14 @@
       "N16197": 1,
       "N17815": 0,
       "N14104": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 29
   },
   {
     "filename": "broad-ranks-012501-012600.bin.gz",
     "familyCount": 100,
     "traceCount": 1990,
-    "compressedBytes": 3291096,
+    "compressedBytes": 3318155,
     "missingTraceCounts": {
       "N15771": 0,
       "N09044": 1,
@@ -13605,13 +13730,14 @@
       "N02613": 3,
       "N06312": 0,
       "N06495": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 42
   },
   {
     "filename": "broad-ranks-012601-012700.bin.gz",
     "familyCount": 100,
     "traceCount": 2010,
-    "compressedBytes": 3333384,
+    "compressedBytes": 3360615,
     "missingTraceCounts": {
       "N07760": 0,
       "N10996": 10,
@@ -13713,13 +13839,14 @@
       "N17260": 0,
       "N05504": 0,
       "N13105": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-012701-012800.bin.gz",
     "familyCount": 100,
     "traceCount": 2885,
-    "compressedBytes": 4709542,
+    "compressedBytes": 4749975,
     "missingTraceCounts": {
       "N08683": 0,
       "N00841": 2,
@@ -13821,13 +13948,14 @@
       "N01345": 0,
       "N12108": 0,
       "N14242": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 29
   },
   {
     "filename": "broad-ranks-012801-012900.bin.gz",
     "familyCount": 100,
     "traceCount": 2155,
-    "compressedBytes": 3586487,
+    "compressedBytes": 3616883,
     "missingTraceCounts": {
       "N09178": 3,
       "N18675": 5,
@@ -13929,13 +14057,14 @@
       "N20175": 2,
       "N08826": 0,
       "N04689": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 34
   },
   {
     "filename": "broad-ranks-012901-013000.bin.gz",
     "familyCount": 100,
     "traceCount": 1815,
-    "compressedBytes": 3020806,
+    "compressedBytes": 3044690,
     "missingTraceCounts": {
       "N13695": 0,
       "N00759": 1,
@@ -14037,13 +14166,14 @@
       "N06480": 0,
       "N10298": 0,
       "N13461": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 41
   },
   {
     "filename": "broad-ranks-013001-013100.bin.gz",
     "familyCount": 100,
     "traceCount": 1880,
-    "compressedBytes": 3095863,
+    "compressedBytes": 3120462,
     "missingTraceCounts": {
       "N03672": 2,
       "N03587": 0,
@@ -14145,13 +14275,14 @@
       "N01347": 1,
       "N12118": 0,
       "N17910": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 42
   },
   {
     "filename": "broad-ranks-013101-013200.bin.gz",
     "familyCount": 100,
     "traceCount": 2600,
-    "compressedBytes": 4346910,
+    "compressedBytes": 4385551,
     "missingTraceCounts": {
       "N13665": 0,
       "N15173": 0,
@@ -14253,13 +14384,14 @@
       "N00711": 2,
       "N14381": 0,
       "N00368": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 38
   },
   {
     "filename": "broad-ranks-013201-013300.bin.gz",
     "familyCount": 100,
     "traceCount": 2170,
-    "compressedBytes": 3559943,
+    "compressedBytes": 3589839,
     "missingTraceCounts": {
       "N18827": 2,
       "N01344": 0,
@@ -14361,13 +14493,14 @@
       "N19729": 4,
       "N17415": 0,
       "N13762": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 36
   },
   {
     "filename": "broad-ranks-013301-013400.bin.gz",
     "familyCount": 100,
     "traceCount": 1640,
-    "compressedBytes": 2737108,
+    "compressedBytes": 2758949,
     "missingTraceCounts": {
       "N10471": 1,
       "N19941": 2,
@@ -14469,13 +14602,14 @@
       "N16174": 1,
       "N04423": 9,
       "N20493": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 28
   },
   {
     "filename": "broad-ranks-013401-013500.bin.gz",
     "familyCount": 100,
     "traceCount": 2520,
-    "compressedBytes": 4194155,
+    "compressedBytes": 4231168,
     "missingTraceCounts": {
       "N18685": 3,
       "N12403": 2,
@@ -14577,13 +14711,14 @@
       "N08970": 1,
       "N06103": 1,
       "N10011": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 26
   },
   {
     "filename": "broad-ranks-013501-013600.bin.gz",
     "familyCount": 100,
     "traceCount": 3215,
-    "compressedBytes": 5405134,
+    "compressedBytes": 5453999,
     "missingTraceCounts": {
       "N00262": 3,
       "N15259": 1,
@@ -14685,13 +14820,14 @@
       "N15127": 0,
       "N09774": 0,
       "N03905": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 21
   },
   {
     "filename": "broad-ranks-013601-013700.bin.gz",
     "familyCount": 100,
     "traceCount": 2130,
-    "compressedBytes": 3559630,
+    "compressedBytes": 3589806,
     "missingTraceCounts": {
       "N13990": 1,
       "N01137": 0,
@@ -14793,13 +14929,14 @@
       "N20577": 3,
       "N09533": 0,
       "N08812": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-013701-013800.bin.gz",
     "familyCount": 100,
     "traceCount": 1880,
-    "compressedBytes": 3144741,
+    "compressedBytes": 3169900,
     "missingTraceCounts": {
       "N04519": 0,
       "N08342": 0,
@@ -14901,13 +15038,14 @@
       "N07865": 4,
       "N04685": 0,
       "N06391": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 29
   },
   {
     "filename": "broad-ranks-013801-013900.bin.gz",
     "familyCount": 100,
     "traceCount": 2195,
-    "compressedBytes": 3732719,
+    "compressedBytes": 3762968,
     "missingTraceCounts": {
       "N09389": 0,
       "N07103": 3,
@@ -15009,13 +15147,14 @@
       "N05568": 0,
       "N04776": 0,
       "N15693": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 28
   },
   {
     "filename": "broad-ranks-013901-014000.bin.gz",
     "familyCount": 100,
     "traceCount": 1845,
-    "compressedBytes": 3060682,
+    "compressedBytes": 3084670,
     "missingTraceCounts": {
       "N02163": 1,
       "N14019": 0,
@@ -15117,13 +15256,14 @@
       "N15261": 0,
       "N04695": 0,
       "N16256": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 21
   },
   {
     "filename": "broad-ranks-014001-014100.bin.gz",
     "familyCount": 100,
     "traceCount": 2170,
-    "compressedBytes": 3574858,
+    "compressedBytes": 3605155,
     "missingTraceCounts": {
       "N10234": 0,
       "N03498": 1,
@@ -15225,13 +15365,14 @@
       "N01960": 1,
       "N15453": 0,
       "N17546": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-014101-014200.bin.gz",
     "familyCount": 100,
     "traceCount": 2150,
-    "compressedBytes": 3624117,
+    "compressedBytes": 3654020,
     "missingTraceCounts": {
       "N15683": 0,
       "N17358": 0,
@@ -15333,13 +15474,14 @@
       "N14206": 2,
       "N15008": 0,
       "N03765": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-014201-014300.bin.gz",
     "familyCount": 100,
     "traceCount": 1740,
-    "compressedBytes": 2933529,
+    "compressedBytes": 2955490,
     "missingTraceCounts": {
       "N18238": 0,
       "N13364": 0,
@@ -15441,13 +15583,14 @@
       "N18011": 1,
       "N17398": 2,
       "N05937": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 33
   },
   {
     "filename": "broad-ranks-014301-014400.bin.gz",
     "familyCount": 100,
     "traceCount": 1585,
-    "compressedBytes": 2637091,
+    "compressedBytes": 2658580,
     "missingTraceCounts": {
       "N00500": 0,
       "N19672": 2,
@@ -15549,13 +15692,14 @@
       "N13913": 3,
       "N08636": 0,
       "N06127": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 31
   },
   {
     "filename": "broad-ranks-014401-014500.bin.gz",
     "familyCount": 100,
     "traceCount": 2125,
-    "compressedBytes": 3504141,
+    "compressedBytes": 3533061,
     "missingTraceCounts": {
       "N04587": 0,
       "N07936": 0,
@@ -15657,13 +15801,14 @@
       "N16680": 0,
       "N10047": 0,
       "N09058": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 26
   },
   {
     "filename": "broad-ranks-014501-014600.bin.gz",
     "familyCount": 100,
     "traceCount": 1695,
-    "compressedBytes": 2778623,
+    "compressedBytes": 2800652,
     "missingTraceCounts": {
       "N14406": 0,
       "N06350": 0,
@@ -15765,13 +15910,14 @@
       "N09546": 0,
       "N16254": 0,
       "N19613": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 32
   },
   {
     "filename": "broad-ranks-014601-014700.bin.gz",
     "familyCount": 100,
     "traceCount": 1600,
-    "compressedBytes": 2621190,
+    "compressedBytes": 2642991,
     "missingTraceCounts": {
       "N18598": 2,
       "N19364": 2,
@@ -15873,13 +16019,14 @@
       "N03556": 0,
       "N06374": 0,
       "N15459": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-014701-014800.bin.gz",
     "familyCount": 100,
     "traceCount": 1535,
-    "compressedBytes": 2528730,
+    "compressedBytes": 2549299,
     "missingTraceCounts": {
       "N02232": 0,
       "N17610": 1,
@@ -15981,13 +16128,14 @@
       "N18513": 2,
       "N12961": 0,
       "N05840": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 27
   },
   {
     "filename": "broad-ranks-014801-014900.bin.gz",
     "familyCount": 100,
     "traceCount": 1800,
-    "compressedBytes": 3010038,
+    "compressedBytes": 3033098,
     "missingTraceCounts": {
       "N04861": 0,
       "N07844": 0,
@@ -16089,13 +16237,14 @@
       "N03436": 0,
       "N12940": 0,
       "N14642": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-014901-015000.bin.gz",
     "familyCount": 100,
     "traceCount": 2160,
-    "compressedBytes": 3571582,
+    "compressedBytes": 3601136,
     "missingTraceCounts": {
       "N00964": 28,
       "N03321": 10,
@@ -16197,13 +16346,14 @@
       "N18304": 5,
       "N09300": 0,
       "N05107": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 25
   },
   {
     "filename": "broad-ranks-015001-015100.bin.gz",
     "familyCount": 100,
     "traceCount": 1640,
-    "compressedBytes": 2707827,
+    "compressedBytes": 2729516,
     "missingTraceCounts": {
       "N06734": 0,
       "N11694": 2,
@@ -16305,13 +16455,14 @@
       "N19964": 3,
       "N20191": 2,
       "N15264": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 24
   },
   {
     "filename": "broad-ranks-015101-015200.bin.gz",
     "familyCount": 100,
     "traceCount": 1875,
-    "compressedBytes": 3123220,
+    "compressedBytes": 3147716,
     "missingTraceCounts": {
       "N14237": 3,
       "N06540": 0,
@@ -16413,13 +16564,14 @@
       "N07065": 0,
       "N07242": 0,
       "N04195": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 20
   },
   {
     "filename": "broad-ranks-015201-015300.bin.gz",
     "familyCount": 100,
     "traceCount": 1715,
-    "compressedBytes": 2853472,
+    "compressedBytes": 2875444,
     "missingTraceCounts": {
       "N05478": 0,
       "N06112": 0,
@@ -16521,13 +16673,14 @@
       "N19415": 5,
       "N14129": 0,
       "N19521": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 22
   },
   {
     "filename": "broad-ranks-015301-015400.bin.gz",
     "familyCount": 100,
     "traceCount": 1520,
-    "compressedBytes": 2537218,
+    "compressedBytes": 2557605,
     "missingTraceCounts": {
       "N03847": 0,
       "N05046": 0,
@@ -16629,13 +16782,14 @@
       "N18693": 2,
       "N06049": 0,
       "N07640": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 30
   },
   {
     "filename": "broad-ranks-015401-015500.bin.gz",
     "familyCount": 100,
     "traceCount": 1740,
-    "compressedBytes": 2940850,
+    "compressedBytes": 2962374,
     "missingTraceCounts": {
       "N14101": 0,
       "N09411": 0,
@@ -16737,13 +16891,14 @@
       "N00739": 4,
       "N03903": 1,
       "N10571": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 28
   },
   {
     "filename": "broad-ranks-015501-015600.bin.gz",
     "familyCount": 100,
     "traceCount": 1550,
-    "compressedBytes": 2600591,
+    "compressedBytes": 2620767,
     "missingTraceCounts": {
       "N15483": 0,
       "N04766": 0,
@@ -16845,13 +17000,14 @@
       "N08111": 0,
       "N03445": 0,
       "N06896": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 21
   },
   {
     "filename": "broad-ranks-015601-015700.bin.gz",
     "familyCount": 100,
     "traceCount": 2040,
-    "compressedBytes": 3424337,
+    "compressedBytes": 3451879,
     "missingTraceCounts": {
       "N00891": 1,
       "N20778": 4,
@@ -16953,13 +17109,14 @@
       "N10854": 0,
       "N09368": 0,
       "N18938": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 27
   },
   {
     "filename": "broad-ranks-015701-015800.bin.gz",
     "familyCount": 100,
     "traceCount": 1695,
-    "compressedBytes": 2821277,
+    "compressedBytes": 2842965,
     "missingTraceCounts": {
       "N08241": 0,
       "N19987": 2,
@@ -17061,13 +17218,14 @@
       "N08581": 0,
       "N18187": 0,
       "N03511": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 26
   },
   {
     "filename": "broad-ranks-015801-015900.bin.gz",
     "familyCount": 100,
     "traceCount": 2115,
-    "compressedBytes": 3553632,
+    "compressedBytes": 3582711,
     "missingTraceCounts": {
       "N19813": 3,
       "N06316": 0,
@@ -17169,13 +17327,14 @@
       "N04121": 3,
       "N08070": 0,
       "N01876": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 17
   },
   {
     "filename": "broad-ranks-015901-016000.bin.gz",
     "familyCount": 100,
     "traceCount": 1510,
-    "compressedBytes": 2523806,
+    "compressedBytes": 2543578,
     "missingTraceCounts": {
       "N11336": 1,
       "N03985": 1,
@@ -17277,13 +17436,14 @@
       "N11154": 0,
       "N16675": 1,
       "N17133": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 17
   },
   {
     "filename": "broad-ranks-016001-016100.bin.gz",
     "familyCount": 100,
     "traceCount": 1515,
-    "compressedBytes": 2522313,
+    "compressedBytes": 2542296,
     "missingTraceCounts": {
       "N11681": 0,
       "N07602": 0,
@@ -17385,13 +17545,14 @@
       "N06376": 0,
       "N18246": 4,
       "N11086": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 18
   },
   {
     "filename": "broad-ranks-016101-016200.bin.gz",
     "familyCount": 100,
     "traceCount": 1590,
-    "compressedBytes": 2670654,
+    "compressedBytes": 2692210,
     "missingTraceCounts": {
       "N10116": 0,
       "N08726": 0,
@@ -17493,13 +17654,14 @@
       "N02804": 0,
       "N11124": 0,
       "N17031": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 21
   },
   {
     "filename": "broad-ranks-016201-016300.bin.gz",
     "familyCount": 100,
     "traceCount": 1550,
-    "compressedBytes": 2589236,
+    "compressedBytes": 2609746,
     "missingTraceCounts": {
       "N05103": 1,
       "N17603": 1,
@@ -17601,13 +17763,14 @@
       "N20267": 2,
       "N19147": 2,
       "N16738": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 29
   },
   {
     "filename": "broad-ranks-016301-016400.bin.gz",
     "familyCount": 100,
     "traceCount": 1435,
-    "compressedBytes": 2375359,
+    "compressedBytes": 2392818,
     "missingTraceCounts": {
       "N02945": 0,
       "N16939": 1,
@@ -17709,13 +17872,14 @@
       "N15940": 1,
       "N07026": 0,
       "N20511": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 24
   },
   {
     "filename": "broad-ranks-016401-016500.bin.gz",
     "familyCount": 100,
     "traceCount": 1655,
-    "compressedBytes": 2788815,
+    "compressedBytes": 2810463,
     "missingTraceCounts": {
       "N19087": 2,
       "N06115": 0,
@@ -17817,13 +17981,14 @@
       "N09334": 0,
       "N13426": 0,
       "N13648": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 23
   },
   {
     "filename": "broad-ranks-016501-016600.bin.gz",
     "familyCount": 100,
     "traceCount": 1950,
-    "compressedBytes": 3289770,
+    "compressedBytes": 3316196,
     "missingTraceCounts": {
       "N07752": 0,
       "N04637": 0,
@@ -17925,13 +18090,14 @@
       "N00795": 2,
       "N20018": 2,
       "N20512": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 24
   },
   {
     "filename": "broad-ranks-016601-016700.bin.gz",
     "familyCount": 100,
     "traceCount": 1690,
-    "compressedBytes": 2789597,
+    "compressedBytes": 2811417,
     "missingTraceCounts": {
       "N13281": 0,
       "N11903": 1,
@@ -18033,13 +18199,14 @@
       "N06184": 1,
       "N19581": 2,
       "N07782": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 23
   },
   {
     "filename": "broad-ranks-016701-016800.bin.gz",
     "familyCount": 100,
     "traceCount": 1415,
-    "compressedBytes": 2394305,
+    "compressedBytes": 2411560,
     "missingTraceCounts": {
       "N10560": 0,
       "N14691": 1,
@@ -18141,13 +18308,14 @@
       "N16661": 0,
       "N16690": 0,
       "N19582": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 20
   },
   {
     "filename": "broad-ranks-016801-016900.bin.gz",
     "familyCount": 100,
     "traceCount": 1635,
-    "compressedBytes": 2698096,
+    "compressedBytes": 2719554,
     "missingTraceCounts": {
       "N03178": 0,
       "N02280": 7,
@@ -18249,13 +18417,14 @@
       "N19324": 2,
       "N13239": 1,
       "N06568": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 19
   },
   {
     "filename": "broad-ranks-016901-017000.bin.gz",
     "familyCount": 100,
     "traceCount": 1525,
-    "compressedBytes": 2508825,
+    "compressedBytes": 2528524,
     "missingTraceCounts": {
       "N03582": 0,
       "N02024": 0,
@@ -18357,13 +18526,14 @@
       "N07577": 0,
       "N18501": 2,
       "N18374": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 25
   },
   {
     "filename": "broad-ranks-017001-017100.bin.gz",
     "familyCount": 100,
     "traceCount": 1505,
-    "compressedBytes": 2526983,
+    "compressedBytes": 2546192,
     "missingTraceCounts": {
       "N04653": 6,
       "N20856": 2,
@@ -18465,13 +18635,14 @@
       "N19992": 3,
       "N10604": 0,
       "N10867": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 28
   },
   {
     "filename": "broad-ranks-017101-017200.bin.gz",
     "familyCount": 100,
     "traceCount": 1370,
-    "compressedBytes": 2287849,
+    "compressedBytes": 2304741,
     "missingTraceCounts": {
       "N02336": 0,
       "N00492": 0,
@@ -18573,13 +18744,14 @@
       "N03640": 1,
       "N10959": 0,
       "N20569": 3
-    }
+    },
+    "fullyRefinedFamilyCount": 26
   },
   {
     "filename": "broad-ranks-017201-017300.bin.gz",
     "familyCount": 100,
     "traceCount": 1415,
-    "compressedBytes": 2370050,
+    "compressedBytes": 2387826,
     "missingTraceCounts": {
       "N19347": 3,
       "N17132": 0,
@@ -18681,13 +18853,14 @@
       "N07884": 2,
       "N15790": 1,
       "N18760": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 16
   },
   {
     "filename": "broad-ranks-017301-017400.bin.gz",
     "familyCount": 100,
     "traceCount": 1390,
-    "compressedBytes": 2345434,
+    "compressedBytes": 2362141,
     "missingTraceCounts": {
       "N20060": 3,
       "N06964": 0,
@@ -18789,13 +18962,14 @@
       "N14035": 0,
       "N07036": 0,
       "N06105": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 17
   },
   {
     "filename": "broad-ranks-017401-017500.bin.gz",
     "familyCount": 100,
     "traceCount": 1300,
-    "compressedBytes": 2155223,
+    "compressedBytes": 2169526,
     "missingTraceCounts": {
       "N06657": 0,
       "N07332": 0,
@@ -18897,13 +19071,14 @@
       "N10702": 0,
       "N11110": 0,
       "N17290": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 16
   },
   {
     "filename": "broad-ranks-017501-017600.bin.gz",
     "familyCount": 100,
     "traceCount": 1240,
-    "compressedBytes": 2056924,
+    "compressedBytes": 2069304,
     "missingTraceCounts": {
       "N06874": 1,
       "N08529": 0,
@@ -19005,13 +19180,14 @@
       "N10507": 0,
       "N09381": 1,
       "N08336": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 17
   },
   {
     "filename": "broad-ranks-017601-017700.bin.gz",
     "familyCount": 100,
     "traceCount": 1375,
-    "compressedBytes": 2261596,
+    "compressedBytes": 2277492,
     "missingTraceCounts": {
       "N09759": 0,
       "N11447": 0,
@@ -19113,13 +19289,14 @@
       "N12734": 0,
       "N09624": 1,
       "N13414": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 21
   },
   {
     "filename": "broad-ranks-017701-017800.bin.gz",
     "familyCount": 100,
     "traceCount": 1365,
-    "compressedBytes": 2281424,
+    "compressedBytes": 2297689,
     "missingTraceCounts": {
       "N18440": 2,
       "N09937": 0,
@@ -19221,13 +19398,14 @@
       "N15617": 0,
       "N20436": 4,
       "N18621": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 15
   },
   {
     "filename": "broad-ranks-017801-017900.bin.gz",
     "familyCount": 100,
     "traceCount": 1545,
-    "compressedBytes": 2607705,
+    "compressedBytes": 2627656,
     "missingTraceCounts": {
       "N11009": 0,
       "N11660": 0,
@@ -19329,13 +19507,14 @@
       "N14720": 0,
       "N04770": 0,
       "N18016": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 14
   },
   {
     "filename": "broad-ranks-017901-018000.bin.gz",
     "familyCount": 100,
     "traceCount": 1455,
-    "compressedBytes": 2422341,
+    "compressedBytes": 2440723,
     "missingTraceCounts": {
       "N16446": 1,
       "N10937": 0,
@@ -19437,13 +19616,14 @@
       "N03671": 2,
       "N15899": 0,
       "N07357": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 22
   },
   {
     "filename": "broad-ranks-018001-018100.bin.gz",
     "familyCount": 100,
     "traceCount": 1220,
-    "compressedBytes": 2033978,
+    "compressedBytes": 2046096,
     "missingTraceCounts": {
       "N09680": 0,
       "N09289": 0,
@@ -19545,13 +19725,14 @@
       "N09296": 0,
       "N14115": 0,
       "N07508": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 19
   },
   {
     "filename": "broad-ranks-018101-018200.bin.gz",
     "familyCount": 100,
     "traceCount": 1265,
-    "compressedBytes": 2085611,
+    "compressedBytes": 2099094,
     "missingTraceCounts": {
       "N18934": 2,
       "N14829": 2,
@@ -19653,13 +19834,14 @@
       "N05753": 0,
       "N05806": 0,
       "N15464": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 24
   },
   {
     "filename": "broad-ranks-018201-018300.bin.gz",
     "familyCount": 100,
     "traceCount": 1315,
-    "compressedBytes": 2186309,
+    "compressedBytes": 2200563,
     "missingTraceCounts": {
       "N11933": 1,
       "N10696": 0,
@@ -19761,13 +19943,14 @@
       "N17647": 1,
       "N06222": 0,
       "N07385": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 23
   },
   {
     "filename": "broad-ranks-018301-018400.bin.gz",
     "familyCount": 100,
     "traceCount": 1365,
-    "compressedBytes": 2298284,
+    "compressedBytes": 2314669,
     "missingTraceCounts": {
       "N14063": 0,
       "N12372": 0,
@@ -19869,13 +20052,14 @@
       "N20742": 2,
       "N14383": 0,
       "N06532": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 15
   },
   {
     "filename": "broad-ranks-018401-018500.bin.gz",
     "familyCount": 100,
     "traceCount": 1235,
-    "compressedBytes": 2091337,
+    "compressedBytes": 2103762,
     "missingTraceCounts": {
       "N10278": 0,
       "N00426": 2,
@@ -19977,13 +20161,14 @@
       "N17966": 1,
       "N10799": 0,
       "N16397": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 10
   },
   {
     "filename": "broad-ranks-018501-018600.bin.gz",
     "familyCount": 100,
     "traceCount": 1255,
-    "compressedBytes": 2120250,
+    "compressedBytes": 2133782,
     "missingTraceCounts": {
       "N07657": 0,
       "N09733": 0,
@@ -20085,13 +20270,14 @@
       "N10339": 0,
       "N12983": 0,
       "N17828": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 18
   },
   {
     "filename": "broad-ranks-018601-018700.bin.gz",
     "familyCount": 100,
     "traceCount": 1355,
-    "compressedBytes": 2283431,
+    "compressedBytes": 2298931,
     "missingTraceCounts": {
       "N08966": 0,
       "N20397": 4,
@@ -20193,13 +20379,14 @@
       "N03943": 0,
       "N16714": 0,
       "N06108": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 17
   },
   {
     "filename": "broad-ranks-018701-018800.bin.gz",
     "familyCount": 100,
     "traceCount": 1300,
-    "compressedBytes": 2196750,
+    "compressedBytes": 2211480,
     "missingTraceCounts": {
       "N14036": 0,
       "N00393": 0,
@@ -20301,13 +20488,14 @@
       "N04447": 0,
       "N10992": 1,
       "N07859": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 8
   },
   {
     "filename": "broad-ranks-018801-018900.bin.gz",
     "familyCount": 100,
     "traceCount": 1175,
-    "compressedBytes": 1998446,
+    "compressedBytes": 2009662,
     "missingTraceCounts": {
       "N10955": 0,
       "N17264": 0,
@@ -20409,13 +20597,14 @@
       "N09875": 0,
       "N09479": 2,
       "N19060": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 13
   },
   {
     "filename": "broad-ranks-018901-019000.bin.gz",
     "familyCount": 100,
     "traceCount": 1310,
-    "compressedBytes": 2256051,
+    "compressedBytes": 2271614,
     "missingTraceCounts": {
       "N00745": 1,
       "N09938": 0,
@@ -20517,13 +20706,14 @@
       "N11907": 0,
       "N06799": 0,
       "N17151": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 15
   },
   {
     "filename": "broad-ranks-019001-019100.bin.gz",
     "familyCount": 100,
     "traceCount": 1095,
-    "compressedBytes": 1832476,
+    "compressedBytes": 1843771,
     "missingTraceCounts": {
       "N11553": 0,
       "N09500": 0,
@@ -20625,13 +20815,14 @@
       "N01457": 1,
       "N19888": 2,
       "N08546": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 15
   },
   {
     "filename": "broad-ranks-019101-019200.bin.gz",
     "familyCount": 100,
     "traceCount": 1150,
-    "compressedBytes": 1914485,
+    "compressedBytes": 1925817,
     "missingTraceCounts": {
       "N18871": 3,
       "N14040": 0,
@@ -20733,13 +20924,14 @@
       "N05464": 0,
       "N00016": 4,
       "N12332": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 18
   },
   {
     "filename": "broad-ranks-019201-019300.bin.gz",
     "familyCount": 100,
     "traceCount": 1145,
-    "compressedBytes": 1913592,
+    "compressedBytes": 1924960,
     "missingTraceCounts": {
       "N07123": 0,
       "N06918": 0,
@@ -20841,13 +21033,14 @@
       "N11932": 1,
       "N07060": 0,
       "N09796": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 8
   },
   {
     "filename": "broad-ranks-019301-019400.bin.gz",
     "familyCount": 100,
     "traceCount": 1160,
-    "compressedBytes": 1941091,
+    "compressedBytes": 1952537,
     "missingTraceCounts": {
       "N20696": 3,
       "N19013": 2,
@@ -20949,13 +21142,14 @@
       "N04632": 1,
       "N18972": 2,
       "N16964": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 18
   },
   {
     "filename": "broad-ranks-019401-019500.bin.gz",
     "familyCount": 100,
     "traceCount": 1175,
-    "compressedBytes": 1951397,
+    "compressedBytes": 1962734,
     "missingTraceCounts": {
       "N03243": 0,
       "N13365": 0,
@@ -21057,13 +21251,14 @@
       "N07237": 0,
       "N02631": 1,
       "N06612": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 10
   },
   {
     "filename": "broad-ranks-019501-019600.bin.gz",
     "familyCount": 100,
     "traceCount": 1080,
-    "compressedBytes": 1822368,
+    "compressedBytes": 1832673,
     "missingTraceCounts": {
       "N09009": 0,
       "N14625": 1,
@@ -21165,13 +21360,14 @@
       "N20145": 2,
       "N19643": 2,
       "N19930": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 16
   },
   {
     "filename": "broad-ranks-019601-019700.bin.gz",
     "familyCount": 100,
     "traceCount": 1130,
-    "compressedBytes": 1886273,
+    "compressedBytes": 1897690,
     "missingTraceCounts": {
       "N08920": 2,
       "N00532": 0,
@@ -21273,13 +21469,14 @@
       "N20630": 2,
       "N11529": 0,
       "N07835": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 13
   },
   {
     "filename": "broad-ranks-019701-019800.bin.gz",
     "familyCount": 100,
     "traceCount": 1115,
-    "compressedBytes": 1906807,
+    "compressedBytes": 1917899,
     "missingTraceCounts": {
       "N09105": 0,
       "N09061": 0,
@@ -21381,13 +21578,14 @@
       "N09994": 0,
       "N11541": 0,
       "N18976": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 13
   },
   {
     "filename": "broad-ranks-019801-019900.bin.gz",
     "familyCount": 100,
     "traceCount": 1110,
-    "compressedBytes": 1892127,
+    "compressedBytes": 1903339,
     "missingTraceCounts": {
       "N00009": 3,
       "N16296": 0,
@@ -21489,13 +21687,14 @@
       "N10035": 0,
       "N07466": 0,
       "N08027": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 12
   },
   {
     "filename": "broad-ranks-019901-020000.bin.gz",
     "familyCount": 100,
     "traceCount": 1130,
-    "compressedBytes": 1925078,
+    "compressedBytes": 1936337,
     "missingTraceCounts": {
       "N07331": 0,
       "N14328": 0,
@@ -21597,13 +21796,14 @@
       "N06407": 0,
       "N08644": 0,
       "N16395": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 6
   },
   {
     "filename": "broad-ranks-020001-020100.bin.gz",
     "familyCount": 100,
     "traceCount": 1120,
-    "compressedBytes": 1871508,
+    "compressedBytes": 1882837,
     "missingTraceCounts": {
       "N17549": 1,
       "N10535": 1,
@@ -21705,13 +21905,14 @@
       "N17973": 0,
       "N00004": 4,
       "N10857": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 9
   },
   {
     "filename": "broad-ranks-020101-020200.bin.gz",
     "familyCount": 100,
     "traceCount": 1100,
-    "compressedBytes": 1893015,
+    "compressedBytes": 1903955,
     "missingTraceCounts": {
       "N02289": 0,
       "N04046": 0,
@@ -21813,13 +22014,14 @@
       "N18669": 2,
       "N06899": 0,
       "N12916": 1
-    }
+    },
+    "fullyRefinedFamilyCount": 9
   },
   {
     "filename": "broad-ranks-020201-020300.bin.gz",
     "familyCount": 100,
     "traceCount": 1065,
-    "compressedBytes": 1811332,
+    "compressedBytes": 1822009,
     "missingTraceCounts": {
       "N09968": 0,
       "N05883": 0,
@@ -21921,13 +22123,14 @@
       "N11811": 0,
       "N07556": 0,
       "N06004": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 12
   },
   {
     "filename": "broad-ranks-020301-020400.bin.gz",
     "familyCount": 100,
     "traceCount": 1080,
-    "compressedBytes": 1853614,
+    "compressedBytes": 1864537,
     "missingTraceCounts": {
       "N14735": 1,
       "N11218": 0,
@@ -22029,13 +22232,14 @@
       "N03335": 0,
       "N11055": 0,
       "N16715": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 6
   },
   {
     "filename": "broad-ranks-020401-020500.bin.gz",
     "familyCount": 100,
     "traceCount": 1055,
-    "compressedBytes": 1830239,
+    "compressedBytes": 1840709,
     "missingTraceCounts": {
       "N06491": 0,
       "N11434": 0,
@@ -22137,13 +22341,14 @@
       "N14674": 1,
       "N16751": 0,
       "N19152": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 11
   },
   {
     "filename": "broad-ranks-020501-020600.bin.gz",
     "familyCount": 100,
     "traceCount": 1045,
-    "compressedBytes": 1797326,
+    "compressedBytes": 1807839,
     "missingTraceCounts": {
       "N09298": 0,
       "N12015": 0,
@@ -22245,13 +22450,14 @@
       "N13859": 0,
       "N12005": 0,
       "N07557": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 11
   },
   {
     "filename": "broad-ranks-020601-020700.bin.gz",
     "familyCount": 100,
     "traceCount": 1055,
-    "compressedBytes": 1810829,
+    "compressedBytes": 1820810,
     "missingTraceCounts": {
       "N15161": 1,
       "N11669": 1,
@@ -22353,13 +22559,14 @@
       "N18940": 2,
       "N17719": 0,
       "N06047": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 3
   },
   {
     "filename": "broad-ranks-020701-020800.bin.gz",
     "familyCount": 100,
     "traceCount": 1035,
-    "compressedBytes": 1761508,
+    "compressedBytes": 1771593,
     "missingTraceCounts": {
       "N10233": 0,
       "N19304": 2,
@@ -22461,13 +22668,14 @@
       "N08402": 0,
       "N12692": 0,
       "N14422": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 14
   },
   {
     "filename": "broad-ranks-020801-020900.bin.gz",
     "familyCount": 100,
     "traceCount": 1025,
-    "compressedBytes": 1754048,
+    "compressedBytes": 1763907,
     "missingTraceCounts": {
       "N11514": 0,
       "N09670": 0,
@@ -22569,13 +22777,14 @@
       "N10357": 1,
       "N19336": 2,
       "N00765": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 7
   },
   {
     "filename": "broad-ranks-020901-021000.bin.gz",
     "familyCount": 100,
     "traceCount": 1010,
-    "compressedBytes": 1707791,
+    "compressedBytes": 1718031,
     "missingTraceCounts": {
       "N16867": 0,
       "N02278": 1,
@@ -22677,13 +22886,14 @@
       "N07117": 0,
       "N05631": 0,
       "N17167": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 7
   },
   {
     "filename": "broad-ranks-021001-021100.bin.gz",
     "familyCount": 100,
     "traceCount": 1005,
-    "compressedBytes": 1721333,
+    "compressedBytes": 1731631,
     "missingTraceCounts": {
       "N11767": 1,
       "N12369": 0,
@@ -22785,13 +22995,14 @@
       "N11763": 0,
       "N06682": 0,
       "N00738": 0
-    }
+    },
+    "fullyRefinedFamilyCount": 2
   },
   {
     "filename": "broad-ranks-021101-021120.bin.gz",
     "familyCount": 20,
     "traceCount": 200,
-    "compressedBytes": 335276,
+    "compressedBytes": 337486,
     "missingTraceCounts": {
       "N12091": 0,
       "N20205": 2,
@@ -22813,6 +23024,7 @@
       "N11937": 0,
       "N02308": 0,
       "N12421": 2
-    }
+    },
+    "fullyRefinedFamilyCount": 0
   }
 ]
